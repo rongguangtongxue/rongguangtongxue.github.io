@@ -2593,7 +2593,6 @@ input, select, textarea {
 		-ms-justify-content: space-between;
 		justify-content: space-between;
 		background-color: black;
-		background-image: url(/images/bg.jpg);
 		background-attachment: scroll,	scroll;
 		background-position: top left,							top left;
 		background-repeat: repeat,								no-repeat;
